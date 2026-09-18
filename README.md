@@ -25,7 +25,8 @@ Este projeto realiza uma Análise Exploratória de Dados (EDA) e limpeza de dado
   - **Mediana das vendas:** R$ 632,25
   - **Primeiro Quartil (Q1):** R$ 276,89
   - **Terceiro Quartil (Q3):** R$ 1.520,24
-<img width="1897" height="850" alt="Captura de tela 2026-09-18 163134" src="https://github.com/user-attachments/assets/75a52404-e76a-4cf8-ab9b-eff2e1ffa3d1" />
+<img width="1145" height="647" alt="image" src="https://github.com/user-attachments/assets/15bb0ca8-7beb-4a33-8c1a-03282e8cc17e" />
+
 
 ---
 
